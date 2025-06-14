@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/3gBSnj0I)
 <div align="center">
   <img src="https://i.postimg.cc/KYsM8qbc/event-banner.png" width="100%">
@@ -80,3 +81,35 @@ Develop a creative application utilizing Google’s Generative AI tools. Build, 
 Let's build with AI and unleash creativity! 🚀🤖
 
 Learn More About GDG Kolachi Build With AI 2025 at [ai.gdgkolachi.com](https://ai.gdgkolachi.com)
+=======
+# Gemini api integration
+
+*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/graphfieds-projects/v0-gemini-api-integration)
+[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/3ygKnpA7bcj)
+
+## Overview
+
+This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
+Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+
+## Deployment
+
+Your project is live at:
+
+**[https://vercel.com/graphfieds-projects/v0-gemini-api-integration](https://vercel.com/graphfieds-projects/v0-gemini-api-integration)**
+
+## Build your app
+
+Continue building your app on:
+
+**[https://v0.dev/chat/projects/3ygKnpA7bcj](https://v0.dev/chat/projects/3ygKnpA7bcj)**
+
+## How It Works
+
+1. Create and modify your project using [v0.dev](https://v0.dev)
+2. Deploy your chats from the v0 interface
+3. Changes are automatically pushed to this repository
+4. Vercel deploys the latest version from this repository
+>>>>>>> bc89725 (Add initial code files)
